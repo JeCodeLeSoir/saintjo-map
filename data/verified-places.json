@@ -1,0 +1,41 @@
+[
+  {
+    "id": "verified-mappy-leader-price-babet",
+    "name": "Leader Price — Raphaël Babet",
+    "category": "Supermarché & alimentation",
+    "type": "supermarket",
+    "address": "23 rue Raphaël Babet, 97480 Saint-Joseph",
+    "area": "Le Butor",
+    "description": "Supermarché de proximité référencé à cette adresse par Mappy et localisé avec l’API Adresse officielle.",
+    "lat": -21.380025,
+    "lng": 55.607226,
+    "source": "Mappy + API Adresse",
+    "sourceUrl": "https://fr.mappy.com/app/leader-price/97480-saint-joseph"
+  },
+  {
+    "id": "verified-mappy-leader-price-vienne",
+    "name": "Leader Price — Jules Vienne",
+    "category": "Supermarché & alimentation",
+    "type": "supermarket",
+    "address": "3 rue Jules Vienne, 97480 Saint-Joseph",
+    "area": "Saint-Joseph",
+    "description": "Supermarché de proximité référencé à cette adresse par Mappy et localisé avec l’API Adresse officielle.",
+    "lat": -21.345091,
+    "lng": 55.631232,
+    "source": "Mappy + API Adresse",
+    "sourceUrl": "https://fr.mappy.com/app/leader-price/97480-saint-joseph"
+  },
+  {
+    "id": "verified-mappy-leader-price-hoareau",
+    "name": "Leader Price — Jules Hoareau",
+    "category": "Supermarché & alimentation",
+    "type": "supermarket",
+    "address": "180 rue Jules Hoareau, 97480 Saint-Joseph",
+    "area": "Saint-Joseph",
+    "description": "Supermarché référencé à cette adresse par Mappy et localisé avec l’API Adresse officielle. Vérifie les horaires avant le déplacement.",
+    "lat": -21.333151,
+    "lng": 55.608106,
+    "source": "Mappy + API Adresse",
+    "sourceUrl": "https://fr.mappy.com/app/leader-price/97480-saint-joseph"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "SaintJo-Map",
+  "short_name": "SaintJo-Map",
+  "description": "Annuaire local de Saint-Joseph 97480",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fbfaf5",
+  "theme_color": "#0b3029",
+  "icons": []
+}
